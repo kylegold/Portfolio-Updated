@@ -19,11 +19,13 @@ The use of this project is to create a portfolio template website demostrating r
 
 ## Credits
 
-This project was created by Kyle Goldfarb and styled using Bootstap styling properties
+This project was created by Kyle Goldfarb and styled using Bootstap styling properties & criteria photos from Ben Wright
 
 ## License
 
 This project is open to anyone looking for a reference in creating a responsive bootstrap portfolio website
+
+---
 
 ---
 
